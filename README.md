@@ -14,10 +14,10 @@ This repository contains the solution for the **NTIRE 2025 Challenge on Day and 
 ---
 
 ## 📚 Pretrained Models
-We provide three different settings for pretrained models. You can download the models using the following links:
+We provide pretrained models. You can download the models using the following links:
 
-- [WGWS](./stage2res/WGWSS22/)
-- [NAFNET](./nafnet_train_log/models/epoch_1700.pth)
+- [WGWS](https://drive.google.com/drive/folders/1wztBWRCNWJ7ktFYxFEKPDJn2ElrZxaAP?usp=drive_link)
+- [NAFNET](https://drive.google.com/drive/folders/1ghh4-R_sPxVMVwH11Bej0XbfVAMowC_U?usp=drive_link)
 ---
 
 ## 🧪 Test Instructions
@@ -37,6 +37,11 @@ python testing_model_Seting1.py --flag K1 --base_channel 18 --num_block 6 --save
 ```bash
 python test_nafnet.py 
 ```
+## 📚 Restored images
+You can download the images using the following links:
+
+- [Result](https://drive.google.com/drive/folders/1iT7jSgwRviFg1siRYdvACz6zMMmGs4zP?usp=drive_link)
+---
 
 
 
